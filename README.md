@@ -4,7 +4,10 @@
 ### Current projects
 #### I recently work on:
 * [Bayanihan OpenLibrary](https://mczvc-biomew.github.io/)
+  * Bayanihan College
+  * Bayanihan Publishing
 * [One Language - Bayanihan Project](https://github.com/mczvc-biomew/OneLang)
+  * One Language, One Learning 
 
 <div class="text-white bg-yellow-600 p-4 [font-size:20px]"><h2>Resume of Czarlemagne</h2></div>
 
