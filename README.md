@@ -21,8 +21,8 @@
 </div>
 <div style="display: flex;">
 <img alt="BC + Vanguard" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_pink_bg.png" />
+<img alt="BC + Law Firm" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_co.png" />
 <img alt="BC + Law Firm" height="14%" width="14%" src="OL_colored.png" />
-<img alt="OpenLibrary + Vanguard" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_black_bg.png" />
 </div>
 <div class="text-white bg-yellow-600 p-4 [font-size:20px]"><h2>Resume of Czarlemagne</h2></div>
 
