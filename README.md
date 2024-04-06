@@ -135,43 +135,45 @@
           <span>C, C++, C#, Clojure, Carbon, Go, Java, Kotlin, Python, Lua, Haskell, Julia, HTML5 / XML / CSS3, PHP, 
                 JavaScript, Typescript, Rust, Ruby, OCaml, Swift, Bash, Powershell, Solidity, Vyper</span>
         </div>
-        <div>
-          <div class="flex mt-3 *:w-[999px]">
-            <h3 class="pr-3">Computer Languages</h3>
-            <span>C <br>
+        <table>
+          <tr class="flex mt-3 *:w-[999px]">
+            <th class="pr-3">Computer Languages</th>
+          </tr>
+          <tr>
+            <td>C <br>
                   💗💗💗💗💗 <br>
                   C++ <br>
                   💗💗💗💗💗 <br>
                   C# <br>
                   💛💛💛💛💛 <br>
                   Rust <br>
-                  💜💜💜💜🖤</span>
-            <span>Javascript <br>
+                  💜💜💜💜🖤</td>
+            <td>Javascript <br>
                   💝💝💝💝💝 <br>
                   Go <br>
                   💚💚💚💚🖤 <br>
                   Java <br>
                   💙💙💙💙💙 <br>
                   Swift <br>
-                  💞💞💞🖤🖤</span>
-            <span>Python (with Django) <br>
+                  💞💞💞🖤🖤</td>
+            <td>Python (with Django) <br>
                   💚💚💚💚💚 <br>
                   LUA <br>
                   💚💚💚💚💚 <br>
                   PHP <br>
                   💚💚💚🖤🖤 <br>
                   Ruby <br>
-                  💚💚💚🖤🖤</span>
-            <span>HTML5 <br>
+                  💚💚💚🖤🖤</td>
+            <td>HTML5 <br>
                   💙💙💙💙💙 <br>
                   CSS3 <br>
                   💚💚💚💚💚 <br>
                   SQL <br>
                   💜💜💜💜💜 <br>
                   Carbon <br>
-                  💜💜💜💜🖤</span>
-          </div>
-        </div>
+                  💜💜💜💜🖤</td>
+          </tr>
+        </table>
         <div>
           <h3>Frameworks and Libraries</h3>
           <span>Django, Flask, VueJS, ReactJS, AngularJS, Strapi, NextJS, Webpack, ExpressJS, Polymer, NodeJS, 
