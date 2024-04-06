@@ -14,7 +14,15 @@
 <img alt="Bayanihan Publishing" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_BP.png" width="14%"/>
 <img alt="We Are Bayanihan" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/sun.svg" width="14%"/>
 </div>
-
+<div style="display: flex;">
+<img alt="OpenLibrary Gold" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_gold.png" width="14%"/>
+<img alt="OpenLibrary Tron" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_circle.png" width="14%"/>
+</div>
+<div style="display: flex;">
+<img alt="BC + Vanguard" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_pink_bg.png" />
+<img alt="BC + Law Firm" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_co.png" />
+<img alt="OpenLibrary + Vanguard" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_black_bg.png" />
+</div>
 <div class="text-white bg-yellow-600 p-4 [font-size:20px]"><h2>Resume of Czarlemagne</h2></div>
 
 <div class="bg-gray-500 text-white p-4">
