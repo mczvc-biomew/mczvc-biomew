@@ -233,34 +233,36 @@
         </div>
         <div>
           <h3>Coursework Information</h3>
-          <span id="coursework" class="w-[725px] block *:bg-gray-500 *:text-white *:p-1 [line-height:2.1]
+          <table id="coursework" class="w-[725px] block *:bg-gray-500 *:text-white *:p-1 [line-height:2.1]
                        *:cursor-pointer">
-                <span>Calculus I, II</span> <span>English Composition I, II</span> 
-                <span>Interpersonal Communication Skills</span> <span>Reasoning & Argumentation</span> 
-                <span>Computation in Physical Sciences</span> <span>Discrete Mathematics</span> 
-                <span class="asterisked">Concrete Mathematics *</span> <span>Logic & Mathematical Reasoning</span> 
-                <span>Distributed Systems</span> <span>Parallel and Distributed Algorithms</span> 
-                <span class="asterisked">Algorithms-I *</span> <span>Algorithms-II</span> <span>Database and Web System Development</span> 
-                <span>Computer Organization & Architecture</span> <span>Computer Networks</span>
-                <span>Networks and Data Communications</span> <span class="asterisked">Statistics *</span> 
-                <span>Formal Language and Automata Theory</span> <span class="asterisked">Software Engineering *</span> 
-                <span>Software Engineering for Data Scientists</span> <span>Programming Languages</span> 
-                <span>Software Architecture</span> <span class="asterisked">Software Design *</span> 
-                <span class="asterisked">Operating Systems *</span> <span class="asterisked">Database Management Systems *</span> 
-                <span>Speech and Natural Language Processing</span> <span>Ethical and Secure Computing</span> 
-                <span>Machine Learning</span> <span>Breadth Life Science</span>
-                <span>High Performance Computing & Computer Architecture</span>
-                <span>Computational Science and Engineering</span> 
-                <span class="asterisked">MATLAB * for Engineering and the Life Sciences</span> 
-                <span class="asterisked">Graphics and Computer Vision * + Image Processing</span> 
-                <span>Graphics Programming with OpenGL</span> 
-                <span class="asterisked">Network Science *</span> 
-                <span>Social Computing</span> <span>Discrete Structures</span> 
-                <span class="asterisked">Cryptography *</span> <span class="asterisked">Blockchain Technologies *</span> 
-                <span class="asterisked">Cloud Computing *</span> <span class="asterisked">Artificial Intelligence *</span> 
-                <span>Symbolic Logic</span> <span>ERGU | EREG</span> 
-                <span>Rizal</span>
-          </span>
+                <tr>
+                  <td>Calculus I, II</td> <td>English Composition I, II</td> 
+                  <td>Interpersonal Communication Skills</td> <td>Reasoning & Argumentation</td> 
+                  <td>Computation in Physical Sciences</td> <td>Discrete Mathematics</td> 
+                  <td class="asterisked">Concrete Mathematics *</td> <td>Logic & Mathematical Reasoning</td> 
+                  <td>Distributed Systems</td> <td>Parallel and Distributed Algorithms</td> 
+                  <td class="asterisked">Algorithms-I *</td> <td>Algorithms-II</td> <td>Database and Web System Development</td> 
+                  <td>Computer Organization & Architecture</td> <td>Computer Networks</td>
+                  <td>Networks and Data Communications</td> <td class="asterisked">Statistics *</td> 
+                  <td>Formal Language and Automata Theory</td> <td class="asterisked">Software Engineering *</td> 
+                  <td>Software Engineering for Data Scientists</td> <td>Programming Languages</td> 
+                  <td>Software Architecture</td> <td class="asterisked">Software Design *</td> 
+                  <td class="asterisked">Operating Systems *</td> <td class="asterisked">Database Management Systems *</td> 
+                  <td>Speech and Natural Language Processing</td> <td>Ethical and Secure Computing</td> 
+                  <td>Machine Learning</td> <td>Breadth Life Science</td>
+                  <td>High Performance Computing & Computer Architecture</td>
+                  <td>Computational Science and Engineering</td> 
+                  <td class="asterisked">MATLAB * for Engineering and the Life Sciences</td> 
+                  <td class="asterisked">Graphics and Computer Vision * + Image Processing</td> 
+                  <td>Graphics Programming with OpenGL</td> 
+                  <td class="asterisked">Network Science *</td> 
+                  <td>Social Computing</td> <td>Discrete Structures</td> 
+                  <td class="asterisked">Cryptography *</td> <td class="asterisked">Blockchain Technologies *</td> 
+                  <td class="asterisked">Cloud Computing *</td> <td class="asterisked">Artificial Intelligence *</td> 
+                  <td>Symbolic Logic</td> <td>ERGU | EREG</td> 
+                  <td>Rizal</td>
+                </tr>
+          </table>
           <span class="block w-[600px] [right:-250px] [position:relative] ">
             <span id="coursework-asterisk" class="bg-yellow-400 p-2" 
                   onmouseover="select_asterisked()" onmouseleave="deselect_asterisked()">
