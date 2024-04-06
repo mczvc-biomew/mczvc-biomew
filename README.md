@@ -9,9 +9,11 @@
 * [One Language - Bayanihan Project](https://github.com/mczvc-biomew/OneLang)
   * One Language, One Learning 
 
+<div style="display: flex;">
 <img alt="Bayanihan College" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_t.png" width="14%"/>
 <img alt="Bayanihan Publishing" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_BP.png" width="14%"/>
 <img alt="We Are Bayanihan" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/sun.svg" width="14%"/>
+</div>
 
 <div class="text-white bg-yellow-600 p-4 [font-size:20px]"><h2>Resume of Czarlemagne</h2></div>
 
