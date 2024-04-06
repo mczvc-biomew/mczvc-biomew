@@ -3,4 +3,4 @@
 
 ### Current projects
 #### I recently work on:
-* (Bayanihan OpenLibrary)[https://mczvc-biomew.github.io/]
+* [Bayanihan OpenLibrary](https://mczvc-biomew.github.io/)
