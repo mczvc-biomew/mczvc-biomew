@@ -136,9 +136,9 @@
                 JavaScript, Typescript, Rust, Ruby, OCaml, Swift, Bash, Powershell, Solidity, Vyper</span>
         </div>
         <table>
-          <tr class="flex mt-3 *:w-[999px]">
-            <th class="pr-3">Computer Languages</th>
-          </tr>
+          <h4 class="flex mt-3 *:w-[999px]">
+            <span class="pr-3">Computer Languages</span>
+          </h4>
           <tr>
             <td>C <br>
                   💗💗💗💗💗 <br>
