@@ -9,9 +9,9 @@
 * [One Language - Bayanihan Project](https://github.com/mczvc-biomew/OneLang)
   * One Language, One Learning 
 
-![Bayanihan College](https://mczvc-biomew.github.io/assets/images/biomew/BC_t.png)
-![Bayanihan Publishing](https://mczvc-biomew.github.io/assets/images/biomew/OL_BP.png)
-![We Are Bayanihan](https://mczvc-biomew.github.io/assets/images/biomew/sun.svg)
+<img alt="Bayanihan College" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_t.png" width="14%"/>
+<img alt="Bayanihan Publishing" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_BP.png" width="14%"/>
+<img alt="We Are Bayanihan" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/sun.svg" width="14%"/>
 
 <div class="text-white bg-yellow-600 p-4 [font-size:20px]"><h2>Resume of Czarlemagne</h2></div>
 
