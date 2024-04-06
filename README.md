@@ -55,7 +55,6 @@
         <li>I am full-stack developer, and DevOps engineer for 6+ years.</li>
       </ul>
     </div>
-
     <h3>WORK EXPERIENCE</h3>
     <div class="w-[613px]">
       <div class="pl-[3rem]">
@@ -93,7 +92,6 @@
         </div>
       </div>
     </div>
-
     <h3>Company</h3>
     <div>
       <div class="flex">
