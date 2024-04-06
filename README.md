@@ -196,27 +196,27 @@
         </div>
       </div>
       <div class="flex">
-        <div>
+        <ul>
           <h3>Organizations</h3>
-          <div class="flex mb-4">
+          <li class="flex mb-4">
             <span class="flex items-center justify-center px-1 
                           bg-gray-200 font-bold block">Royal Academies of Science, Engineering, and Medicine</span>
             <span class="text-white bg-yellow-600 p-2 block">Software Architect, 2022–2032</span>
-          </div>
-          <div class="flex mb-4">
+          </li>
+          <li class="flex mb-4">
             <span><span class="bg-gray-200 p-2">Vanguard Consortium – Phi Chi Alpha</span></span>
             <div class="*:block w-[246px] ml-auto">
               <span class="text-[rgb(8,137,187)] bg-gray-400/80 p-2">Royal Knight, Sigma Alpha, <br>Founder</span>
               <span class="text-yellow-600 bg-gray-300 p-1">Established on 14 Dec. 2023</span>
             </div>
-          </div>
-          <div class="flex mb-4">
+          </li>
+          <li class="flex mb-4">
             <span class="bg-gray-200 p-2">Linux Foundation</span>
-          </div>
-          <div class="flex mb-4">
+          </li>
+          <li class="flex mb-4">
             <span class="bg-gray-200 p-2">CompTIA</span>
-          </div>
-        </div>
+          </li>
+        </ul>
       </div>
       <div>
         <div>
