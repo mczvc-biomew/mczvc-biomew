@@ -6,7 +6,7 @@
 * [Bayanihan OpenLibrary](https://mczvc-biomew.github.io/)
 * [One Language - Bayanihan Project](https://github.com/mczvc-biomew/OneLang)
 
-<div class="text-white bg-yellow-600 p-4 [font-size:20px]">Resume of Czarlemagne</div>
+<div class="text-white bg-yellow-600 p-4 [font-size:20px]"><h2>Resume of Czarlemagne</h2></div>
 
 <div class="bg-gray-500 text-white p-4">
   <div class="flex w-[990px]">
