@@ -62,7 +62,7 @@
           <span>(May 2019 – Nov. 2019)</span>
           <span class="text-white bg-yellow-600 p-2">CEO & Founder, Software Engineer and Architect</span>
           <span class="font-bold [font-size:18px] bg-gray-300 p-2 hover:bg-gray-200 cursor-pointer
-                        [border-inline-start:4px_solid_#5499f0]">Egg Co. Creations</span><span> | </span>
+                        [border-inline-start:4px_solid_#5499f0]"><br><b>Egg Co. Creations</b></span><span> | </span>
           <span class="italic">Quezon City</span>
           <ul class="dashed mt-1 *:mt-2">
             <li>Developed the Easy Graphics, Easy Game, and Easy Animation library using Java and OpenGL.</li>
@@ -74,10 +74,10 @@
           <span class="text-white bg-yellow-600 p-2">Software Engineer and Architect, 
             Full-stack Developer, DevOps Engineer – R&D, 
             Database Administrator, IT & IS Manager, 
-            Business Innovator</span>
+            Business Innovator</span><br>
           <span class="font-bold [font-size:18px] bg-gray-300 p-2 hover:bg-gray-200 cursor-pointer
                       [border-inline-start:4px_solid_#5499f0]">
-            DADS University, Bayanihan College, Network Careers</span>
+            <b>DADS University, Bayanihan College, Network Careers</b></span>
           <span> | </span><span class="italic">Quezon City</span>
           <ul class="dashed *:mt-2">
             <li>Built several micro-services and API endpoints for the consumers and producers operating in the open-source, MOOC and value-based Careers platform to implement automated management solutions.</li>
