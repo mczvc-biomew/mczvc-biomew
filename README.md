@@ -69,7 +69,6 @@
             <li>Released two Android games using the library.</li>
           </ul>
         </div>
-        
         <div class="*:block *:pr-4 pt-4">
           <span>(Dec. 2019 – Present)</span>
           <span class="text-white bg-yellow-600 p-2">Software Engineer and Architect, 
@@ -80,7 +79,6 @@
                       [border-inline-start:4px_solid_#5499f0]">
             DADS University, Bayanihan College, Network Careers</span>
           <span> | </span><span class="italic">Quezon City</span>
-          
           <ul class="dashed *:mt-2">
             <li>Built several micro-services and API endpoints for the consumers and producers operating in the open-source, MOOC and value-based Careers platform to implement automated management solutions.</li>
             <li>Developed automation tools for document generation.</li>
