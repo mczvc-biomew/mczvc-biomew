@@ -5,9 +5,11 @@
 #### I recently work on:
 * [Johnella's Website](https://jk-sanjuan.github.io/)
   * Online Shop
+    * <img alt="Bayanihan College" height="14%" src="assets/images/jk/jk-brand-c-gold.png" width="14%"/>
   * Clinic
   * Blog
   * [+] More
+    * <img alt="Bayanihan College" height="14%" src="assets/images/jk/jk-creative.png" width="14%"/>
 * [Bayanihan OpenLibrary](https://mczvc-biomew.github.io/)
   * Bayanihan College
   * Bayanihan Publishing
@@ -15,19 +17,55 @@
   * One Language, One Learning 
 
 <div style="display: flex;">
-<img alt="Bayanihan College" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_t.png" width="14%"/>
-<img alt="Bayanihan Publishing" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_BP.png" width="14%"/>
-<img alt="We Are Bayanihan" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/sun.svg" width="14%"/>
+<div>
+  <div style="display: flex;">
+  <img alt="Bayanihan College" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_t.png" width="14%"/>
+  <img alt="Bayanihan Publishing" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_BP.png" width="14%"/>
+  <img alt="We Are Bayanihan" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/sun.svg" width="14%"/>
+  </div>
+  <div style="display: flex;">
+  <img alt="OpenLibrary Gold" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_gold.png" width="14%"/>
+  <img alt="OpenLibrary Tron" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_circle.png" width="14%"/>
+  <img alt="OpenLibrary Tron" height="14%" src="OL-2.png" width="14%"/>
+  </div>
+  <div style="display: flex;">
+  <img alt="BC + Vanguard" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_pink_bg.png" />
+  <img alt="BC + Law Firm" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_co.png" />
+  <img alt="BC + Law Firm" height="14%" width="14%" src="OL_colored.png" />
+  </div>
 </div>
-<div style="display: flex;">
-<img alt="OpenLibrary Gold" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_gold.png" width="14%"/>
-<img alt="OpenLibrary Tron" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_circle.png" width="14%"/>
-<img alt="OpenLibrary Tron" height="14%" src="OL-2.png" width="14%"/>
+<div>
+  <div style="display: flex;">
+  <img alt="Bayanihan College" height="14%" src="assets/images/jk/footer.png" width="14%"/>
+  <img alt="Bayanihan Publishing" height="14%" src="assets/images/jk/header-logo.png" width="14%"/>
+  <img alt="We Are Bayanihan" height="14%" src="assets/images/jk/jk-creative.png" width="14%"/>
+  </div>
+  <div style="display: flex;">
+  <img alt="OpenLibrary Gold" height="14%" src="assets/images/jk/jk-icon-384.png" width="14%"/>
+  <img alt="OpenLibrary Tron" height="14%" src="assets/images/jk/jk-m.png" width="14%"/>
+  <img alt="OpenLibrary Tron" height="14%" src="assets/images/jk/JK-P.png" width="14%"/>
+  </div>
+  <div style="display: flex;">
+  <img alt="BC + Vanguard" height="14%" width="22%" src="assets/images/jk/lady-jk.png" />
+  <img alt="BC + Law Firm" height="14%" width="22%" src="assets/images/jk/SJK.png" />
+  </div>
 </div>
-<div style="display: flex;">
-<img alt="BC + Vanguard" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_pink_bg.png" />
-<img alt="BC + Law Firm" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_co.png" />
-<img alt="BC + Law Firm" height="14%" width="14%" src="OL_colored.png" />
+</div>
+<div>
+  <div style="display: flex;">
+  <img alt="Bayanihan College" height="14%" src="assets/images/jk/jk-brand-c-gold.png" width="14%"/>
+  <img alt="Bayanihan Publishing" height="14%" src="assets/images/jk/header-logo.png" width="14%"/>
+  <img alt="We Are Bayanihan" height="14%" src="assets/images/jk/jk-creative.png" width="14%"/>
+  </div>
+  <div style="display: flex;">
+  <img alt="OpenLibrary Gold" height="14%" src="assets/images/jk/jk-icon-384.png" width="14%"/>
+  <img alt="OpenLibrary Tron" height="14%" src="assets/images/jk/jk-m.png" width="14%"/>
+  <img alt="OpenLibrary Tron" height="14%" src="assets/images/jk/JK-P.png" width="14%"/>
+  </div>
+  <div style="display: flex;">
+  <img alt="BC + Vanguard" height="14%" width="22%" src="assets/images/jk/lady-jk.png" />
+  <img alt="BC + Law Firm" height="14%" width="22%" src="assets/images/jk/SJK.png" />
+  </div>
 </div>
 <div class="text-white bg-yellow-600 p-4 [font-size:20px]"><h2>Resume of Czarlemagne</h2></div>
 
