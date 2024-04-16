@@ -51,22 +51,6 @@
   </div>
 </div>
 </div>
-<div>
-  <div style="display: flex;">
-  <img alt="Bayanihan College" height="14%" src="assets/images/jk/jk-brand-c-gold.png" width="14%"/>
-  <img alt="Bayanihan Publishing" height="14%" src="assets/images/jk/header-logo.png" width="14%"/>
-  <img alt="We Are Bayanihan" height="14%" src="assets/images/jk/jk-creative.png" width="14%"/>
-  </div>
-  <div style="display: flex;">
-  <img alt="OpenLibrary Gold" height="14%" src="assets/images/jk/jk-icon-384.png" width="14%"/>
-  <img alt="OpenLibrary Tron" height="14%" src="assets/images/jk/jk-m.png" width="14%"/>
-  <img alt="OpenLibrary Tron" height="14%" src="assets/images/jk/JK-P.png" width="14%"/>
-  </div>
-  <div style="display: flex;">
-  <img alt="BC + Vanguard" height="14%" width="22%" src="assets/images/jk/lady-jk.png" />
-  <img alt="BC + Law Firm" height="14%" width="22%" src="assets/images/jk/SJK.png" />
-  </div>
-</div>
 <div class="text-white bg-yellow-600 p-4 [font-size:20px]"><h2>Resume of Czarlemagne</h2></div>
 
 <div class="bg-gray-500 text-white p-4">
