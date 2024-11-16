@@ -95,8 +95,8 @@
         </li>
         <li> I am experienced in technical and team leadership.</li>
         <li> I am also experienced in TDD, Distributed, High-performance, and Scientific Computing;</li>
-        <li> mastered, and practicing clean code, and Design Patterns for 10+ years, 
-              pragmatic, and Agile methodologies such as Scrum, Lean, XP, and crystal. </li>
+        <li> mastered, and practicing, clean code, and Design Patterns for 10+ years; 
+              pragmatic, and applying Agile methodologies such as Scrum, Lean, XP, and crystal. </li>
         <li>I am full-stack developer, and DevOps engineer for 6+ years.</li>
       </ul>
     </div>
