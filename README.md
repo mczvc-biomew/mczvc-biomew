@@ -160,8 +160,7 @@
       <div>
         <div>
           <h3>Programming Languages</h3>
-          <span>C, C++, C#, Clojure, Carbon, Go, Java, Kotlin, Python, Lua, Haskell, Julia, HTML5 / XML / CSS3, PHP, 
-                JavaScript, Typescript, Rust, Ruby, OCaml, Swift, Bash, Powershell, Solidity, Vyper</span>
+          <span>C, C++, C#, Clojure, Carbon, Go, Java, Kotlin, Python, Lua, Haskell, Julia, HTML5 / XML, CSS3, PHP, JavaScript, Typescript, Rust, Ruby, OCaml, Swift, Zig, Assembly, Bash, Powershell, SQL, Solidity, Vyper</span>
         </div>
         <table>
           <h4 class="flex mt-3 *:w-[999px]">
@@ -204,22 +203,15 @@
         </table>
         <div>
           <h3>Frameworks and Libraries</h3>
-          <span>Django, Flask, VueJS, ReactJS, AngularJS, Strapi, NextJS, Webpack, ExpressJS, Polymer, NodeJS, 
-                Electron, Bootstrap, Bulma, Boost, Rails, Qt5, Junit, jOOQ, Spring, Rails, Scipy, 
-                beautifulsoup4, Kivy, Pandas, Numpy, OpenGL</span>
+          <span>Django, Flask, VueJS, ReactJS, AngularJS, NextJS, Webpack, ExpressJS, OpenAPI, Polymer, Redis, NodeJS, Deno, Bun, Electron, Bootstrap, TailwindCSS, Bulma, Boost, Rails, Qt5, Kafka, jOOQ, Spring, Rails, Scipy, beautifulsoup4, Kivy, Pandas, Numpy, OpenGL</span>
         </div>
         <div>
           <h3>Tools & Technologies</h3>
-          <span>Docker, Kubernetes, Oracle, PostgreSQL, MySQL, MongoDB, GraphQL, Postman, Selenium, Nginx, Git, Apache, 
-                Jira, Cmake, CLion, IntelliJ, VS Code, Linux, Ansible, IBM Control Desk, Vivantio, Firebase, 
-                Elasticsearch, Logstash, Kibana, Salesforce, SAP, Heroku, AWS</span>
+          <span>Docker, Kubernetes, Oracle, PostgreSQL, MySQL, MongoDB, GraphQL, Postman, Selenium, Nginx, Git, Apache, Jira, CMake, CLion, IntelliJ, VS Code, Linux, Ansible, Chef, Terraform, IBM Control Desk, Vivantio, Firebase, Elasticsearch, Logstash, Kibana, Salesforce, SAP, Heroku, AWS</span>
         </div>
         <div>
           <h3>Methodologies</h3>
-          <span>Pragmatism, ArchOps, Waterfall, SRE, DevOps (CI/CD, dynamic testing, Infrastructure as code, CCA), 
-                TPS (Kaizen, Continuous Improvement, ACP), Agile (Scrum, Lean, XP, Crystal), 
-                Twelve-Factor App (SaaS, PaaS), DevSecOps (DAST, PSS ISE, Security by Design, 
-                Security Automation), DataOps
+          <span>Pragmatism, ArchOps, Waterfall, SRE: Site Reliability Engineering, DevOps (CI/CD, dynamic testing, Infrastructure as Code, CCA: Continuous Configuration Automation), TPS: Transaction Processing System (Kaizen, Continuous Improvement, OLTP: Online Transaction Processing), Agile (Scrum, Lean, XP, Crystal), Twelve-Factor App (SaaS, PaaS), DevSecOps (DAST, PSS ISE, Security by Design, Security Automation), DataOps
           </span>
         </div>
       </div>
