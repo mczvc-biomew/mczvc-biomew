@@ -75,30 +75,13 @@
   <div class="p-4">
     <h3>ABOUT ME</h3>
     <div class="w-[613px] [line-height:1.4]">
-      <ul class="pl-[3rem] list-[lower-roman]">
-        <li>I am expert in Python, Java, C++, and JavaScript and a wide variety of frameworks for these languages, 
-          for example:
-          <ul class="pl-[1.6rem] list-disc">
-            <li>flask, Django, Pandas, Numpy, Rails, ReactJS, AngularJS, VueJS, JOGL, Boost, Qt5, 
-                and OpenGL graphics library.</li>
-          </ul>
-        </li>
-        <li>I am also experienced with a number of CI systems, 
-          testing frameworks and designing/running services in a cloud-based architecture.
-        </li>
-        <li>I am familiar with a number of programming languages, 
-          for example:
-          <ul class="pl-[1.6rem] list-disc">
-            <li>Bash, Powershell, Ruby, Clojure, Haskell, Julia, Go, Kotlin, Swift, Lua, Rust, Carbon, 
-                Typescript. Proficient in API and architecture design.</li>
-          </ul>
-        </li>
-        <li> I am experienced in technical and team leadership.</li>
-        <li> I am also experienced in TDD, Distributed, High-performance, and Scientific Computing;</li>
-        <li> mastered, and practicing, clean code, and Design Patterns for 10+ years; 
-              pragmatic, and applying Agile methodologies such as Scrum, Lean, XP, and crystal. </li>
-        <li>I am full-stack developer, and DevOps engineer for 6+ years.</li>
-      </ul>
+     <p>Results-driven software developer with extensive experience in both systems and business domain programming languages (C, C++, C#, Java) and (Python, JavaScript, Ruby, Typescript), leveraging expertise and proficiency in wide variety of frameworks for these languages, for example: Python (flask, Django, Pandas, Numpy), Java Spring, Ruby on Rails, Javascript (NextJS, ReactJS, AngularJS, VueJS), C++ (Boost, Qt5, and OpenGL graphics library), delivering high-quality and innovative solutions across multiple platforms.</p>
+     <p>Strong foundation and solid grasp in algorithms, data-structures, and mathematics, with proficiency in TDD and safety assurance, ensuring code quality and functionality of tested software, in compliance to specifications and use cases of software; applied to, and worked for Distributed, High-performance, and Scientific Computing. </p>
+     <p>I am experienced in technical and team leadership: As a seasoned technical leader, I excel and bring expertise in software design, leveraging in deployment automation to improve and optimize the CI/CD pipelines; commend testing frameworks to the team; and playing the role of designing and operating mission critical services in a cloud-based architecture — I effectively guide cross-functional teams and drive project and business to success — delivering high-quality and efficient, scalable software solutions. </p>
+     <p>Polyglot to familiarize programming in 15+ languages, which includes: Bash, Perl, Powershell, Ruby, Clojure, Haskell, Julia, Go, Kotlin, Swift, Lua, Rust, Zig, Assembly, SQL, Typescript. </p>
+      <p>As a software architect and database manager, I am proficient in designing API, software architecture, and cloud-based services, providing solutions in building effective, efficient, and robust software. </p>
+     <p>Mastered and practiced clean code principles and Design Patterns for 10+ years; pragmatic, and highly accomplished practitioner of agile methodology such as Scrum, Lean, XP, and crystal.</p>
+     <p>As a full-stack developer and DevOps engineer with 6+ years of experience, I possess a unique blend of technical expertise, leadership skills, and passion for delivering high-quality software solutions.</p>
     </div>
     <h3>WORK EXPERIENCE</h3>
     <div class="w-[613px]">
@@ -241,8 +224,8 @@
         </div>
       </div>
       <div class="flex">
-        <ul>
           <h3>Organizations</h3>
+          <ul>
           <li class="flex mb-4">
             <span class="flex items-center justify-center px-1 
                           bg-gray-200 font-bold block">Royal Academies of Science, Engineering, and Medicine</span>
