@@ -19,18 +19,27 @@
 <div style="display: flex;">
 <div>
   <div style="display: flex;">
-  <img alt="Bayanihan College" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_t.png" width="14%"/>
-  <img alt="Bayanihan Publishing" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_BP.png" width="14%"/>
-  <img alt="We Are Bayanihan" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/sun.svg" width="14%"/>
+  <img alt="Bayanihan College" height="14%" src="![image](https://github.com/user-attachments/assets/026341f1-94f7-41ed-820f-ebd97832ead7)
+" width="14%"/>
+  <img alt="Bayanihan Publishing" height="14%" src="![image](https://github.com/user-attachments/assets/49f16b01-4b83-4fca-91bf-14881684f85b)
+" width="14%">
+  <img alt="Bayanihan Publishing" height="14%" src="![image](https://github.com/user-attachments/assets/0138faa1-3746-4909-91f0-ccb6c30ea57e)
+" width="14%"/>
+  <img alt="We Are Bayanihan" height="14%" src="![image](https://github.com/user-attachments/assets/76af4bfd-eb78-4f2c-92f9-bfe57aca1999)
+" width="14%"/>
   </div>
   <div style="display: flex;">
-  <img alt="OpenLibrary Gold" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_gold.png" width="14%"/>
-  <img alt="OpenLibrary Tron" height="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_circle.png" width="14%"/>
+  <img alt="OpenLibrary Gold" height="14%" src="![image](https://github.com/user-attachments/assets/39e6c54c-df53-464d-8e49-14b0c8c7c73d)
+" width="14%"/>
+  <img alt="OpenLibrary Tron" height="14%" src="![image](https://github.com/user-attachments/assets/45162500-7b3a-4941-b542-5fd71b0d9e70)
+" width="14%"/>
   <img alt="OpenLibrary Tron" height="14%" src="OL-2.png" width="14%"/>
   </div>
   <div style="display: flex;">
-  <img alt="BC + Vanguard" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/BC_pink_bg.png" />
-  <img alt="BC + Law Firm" height="14%" width="14%" src="https://mczvc-biomew.github.io/assets/images/biomew/OL_co.png" />
+  <img alt="BC + Vanguard" height="14%" width="14%" src="![image](https://github.com/user-attachments/assets/6f32d36e-e4bc-49fc-941c-bcba8e06278f)
+" />
+  <img alt="BC + Law Firm" height="14%" width="14%" src="![image](https://github.com/user-attachments/assets/2d2dca4c-7ebb-48d0-bac7-e13a8f32bcb0)
+" />
   <img alt="BC + Law Firm" height="14%" width="14%" src="OL_colored.png" />
   </div>
 </div>
