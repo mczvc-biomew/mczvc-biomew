@@ -3,6 +3,9 @@
 
 ### Current projects
 #### I recently work on:
+* [Ryan and Jezza's Wedding RSVP](https://mczvc-biomew.github.io/ryan-and-jezza/)
+  * <img alt="Ryan and Jezza's Wedding" height="50%" width="50%" src="https://github.com/user-attachments/assets/5fb61c52-25b1-44db-b651-c308f055d572"/>
+
 * [Johnella's Website](https://jk-sanjuan.github.io/)
   * Online Shop
     * <img alt="Bayanihan College" height="14%" src="assets/images/jk/jk-brand-c-gold.png" width="14%"/>
