@@ -74,6 +74,33 @@
 <div class="flex">
   <div class="p-4">
     <h3>ABOUT ME</h3>
+    <div>
+      <h4>I am a Filipino software architect who currently lives in Quezon City.</h4>
+      <p>With a college degree in Computer Science, over 7 years of experience as Backend developer / Full-stack developer, I am passionate about working on challenging projects that allow me to grow professionally.</p>
+      <h4>Adaptable</h4>
+      <p>While my expertise lies in Backend and Full-stack development, I stay up to date with the latest trends in Frontend and other areas, using my free time to expand my knowledge.</p>
+      <h4>Looking for ways to automate tasks</h4>
+      <p>Always trying to have everything automated. I don't like repetitive tasks so my software designs normally would come with the idea of minimizing the number of tasks needed to maintain or add new functionalities. My software designs prioritize efficiency, aiming to reduce maintenance and enhance scalability, ensuring long-term value and optimization.</p>
+      <h4>Tech-Savvy</h4>
+      <p>I stay current with emerging technologies and actively seek ways to apply them in real-world projects.</p>
+      <h4>Continuous Improvement</h4>
+      <p>I’m never satisfied with just solving a problem; I’m always on the lookout for better, more efficient solutions. I won't settle just by solving the problem and I am always struggling to find a better way to do it.</p>
+      <h4>Motivations</h4>
+      <ul>
+        <li>A challenging environment that fosters growth.</li>
+        <li>Opportunities to work with diverse technologies.</li>
+        <li>Freedom to optimize my workspace and processes for maximum productivity.</li>
+      </ul>
+      <h4>Hobbies</h4>
+      <ul>
+        <li>Problem-solving and thinking creatively</li>
+        <li>Exploring software development</li>
+        <li>Enjoying music</li>
+        <li>Fixing devices</li>
+        <li>Breaking free from the routine</li>
+      </ul>
+    </div>
+    <h3>PROFILE</h3>
     <div class="w-[613px] [line-height:1.4]">
      <p>Results-driven software developer with extensive experience in both systems and business domain programming languages (C, C++, C#, Java) and (Python, JavaScript, Ruby, Typescript), leveraging expertise and proficiency in wide variety of frameworks for these languages, for example: Python (flask, Django, Pandas, Numpy), Java Spring, Ruby on Rails, Javascript (NextJS, ReactJS, AngularJS, VueJS), C++ (Boost, Qt5, and OpenGL graphics library), delivering high-quality and innovative solutions across multiple platforms.</p>
      <p>Strong foundation and solid grasp in algorithms, data-structures, and mathematics, with proficiency in TDD and safety assurance, ensuring code quality and functionality of tested software, in compliance to specifications and use cases of software; applied to, and worked for Distributed, High-performance, and Scientific Computing. </p>
