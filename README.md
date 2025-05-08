@@ -57,7 +57,7 @@
 <div class="bg-gray-500 text-white p-4">
   <div class="flex w-[990px]">
     <div class="[font-size:20px] w-[148px]"><div class="font-bold"><b>Meldencio Czarlemagne</b></div> Corrales</div>
-    <img alt="mczvc" class="[right:0] [left:580] [position:relative]" src="https://mczvc-biomew.github.io/assets/images/biomew/mczvc.png" width="13%" height="13%"/>
+    <img alt="mczvc" class="[right:0] [left:580] [position:relative]" src="https://github.com/user-attachments/assets/83711abb-78d0-48d9-b8e1-e4fc47b51fb5" width="13%" height="13%"/>
   </div>
   <div class="flex mt-2">
     <div class="w-[155px]"><span>Software Engineer and Architect, DevOps Engineer, Database Manager and Administrator,  
