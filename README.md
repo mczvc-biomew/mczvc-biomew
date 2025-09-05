@@ -68,7 +68,7 @@
     <div class="mx-auto">
       <span class="">
         🏠 St. Peter, New Era, Quezon City <br>
-        📞 (+63) 960 205 6160 📞 (+63) 954 276 9143 <br>
+        📞 (+63) 967 205 6160 📞 (+63) 913 023 0143 <br>
         📧 mczvc.biomew@gmail.com 📧 mczvc@proton.me <br>
       </span>
     </div>
