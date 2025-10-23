@@ -142,7 +142,7 @@
             <b>DADS University, Bayanihan College, Network Careers</b></span>
           <span> | </span><span class="italic">Quezon City</span>
           <ul class="dashed *:mt-2">
-            <li>Built several micro-services and API endpoints for the consumers and producers operating in the open-source, MOOC and value-based Careers platform to implement automated management solutions.</li>
+            <li>Built [and architected] complete microservices and API endpoints with advanced GraphQL integration to support efficient data retrieval and real-time communication between consumers and producers within the open-source, MOOC, and value-based Careers platform. Leveraged Command Query Responsibility Segregation (CQRS) to separate read and write operations, enhancing scalability and performance. Implemented event-driven architecture using event-message passing for reliable, asynchronous communication. Applied Domain-Driven Design (DDD) principles to ensure the system accurately reflects the business domain and is easily extensible. Aditionally, followed Twelve-Factor App principles to ensure the platform is scalable, maintainable, and optimized for cloud deployment, enabling automated management solutions with high reliability and flexibility. </li>
             <li>Developed automation tools for document generation.</li>
             <li>Created full-stack web applications for the university’s virtual learning environment.</li>
             <li>Designed a business model for university-wide learning; a balanced and prosperous ecosystem, for not-for-profit design of business.</li>
