@@ -31,9 +31,9 @@
   <img alt="We Are Bayanihan" height="14%" src="https://github.com/user-attachments/assets/76af4bfd-eb78-4f2c-92f9-bfe57aca1999" width="14%"/>
   </div>
   <div style="display: flex;">
-  <img alt="OpenLibrary Gold" height="14%" src="https://github.com/user-attachments/assets/39e6c54c-df53-464d-8e49-14b0c8c7c73d" width="14%"/>
-  <img alt="OpenLibrary Tron" height="14%" src="https://github.com/user-attachments/assets/45162500-7b3a-4941-b542-5fd71b0d9e70" width="14%"/>
-  <img alt="OpenLibrary Tron" height="14%" src="OL-2.png" width="14%"/>
+  <img width="14%" alt="OL-cheese" src="https://github.com/user-attachments/assets/11a1bacf-2e3b-479a-83c7-88eaaab22918" />
+  <img width="14%" alt="NC" src="https://github.com/user-attachments/assets/92b1d91e-8582-46c1-bb37-148fc6559df3" />
+  <img width="14%" alt="NC-2x" src="https://github.com/user-attachments/assets/f86c01d3-06f6-49c1-87b3-4e0d3ffd0c5a" />
   </div>
   <div style="display: flex;">
   <img alt="BC + Vanguard" height="14%" width="14%" src="https://github.com/user-attachments/assets/6f32d36e-e4bc-49fc-941c-bcba8e06278f" />
@@ -43,18 +43,20 @@
 </div>
 <div>
   <div style="display: flex;">
-  <img alt="Bayanihan College" height="14%" src="assets/images/jk/footer.png" width="14%"/>
-  <img alt="Bayanihan Publishing" height="14%" src="assets/images/jk/header-logo.png" width="14%"/>
-  <img alt="We Are Bayanihan" height="14%" src="assets/images/jk/jk-creative.png" width="14%"/>
+   <img width="14%" alt="nc-mg-card" src="https://github.com/user-attachments/assets/56c504e6-fca3-4bb2-b4f1-5814155f281a" />
+   <img width="14%" alt="YG" src="https://github.com/user-attachments/assets/f67c9274-d961-4c5e-9b8c-0b0d2e465c3c" />
+   <img width="14%" alt="YG-burst" src="https://github.com/user-attachments/assets/86b242cc-924f-4454-8038-1b9623bc3525" />
   </div>
   <div style="display: flex;">
-  <img alt="OpenLibrary Gold" height="14%" src="assets/images/jk/jk-icon-384.png" width="14%"/>
-  <img alt="OpenLibrary Tron" height="14%" src="assets/images/jk/jk-m.png" width="14%"/>
-  <img alt="OpenLibrary Tron" height="14%" src="assets/images/jk/JK-P.png" width="14%"/>
+  <img width="14%" alt="k9gb-no-burst" src="https://github.com/user-attachments/assets/107188aa-4828-4feb-a349-80f494f5efc0" />
+  <img width="14%" alt="k9gb-no-burst" src="https://github.com/user-attachments/assets/485d4ef8-b58a-4470-a4cb-288e27c0c0e6" />
+
   </div>
   <div style="display: flex;">
-  <img alt="BC + Vanguard" height="14%" width="22%" src="assets/images/jk/lady-jk.png" />
-  <img alt="BC + Law Firm" height="14%" width="22%" src="assets/images/jk/SJK.png" />
+   <img width="14%" alt="picosoft" src="https://github.com/user-attachments/assets/74b410c8-4f70-4c19-bf90-97fad3e27cb7" />
+   <img width="14%" alt="mczvc Web-Services" src="https://github.com/user-attachments/assets/9c00b84f-1d1a-44ab-b353-c2e676c8dfdb" />
+   <img width="14%" alt="Egg Co." src="https://github.com/user-attachments/assets/eef9df93-3a8a-48d7-ad53-349fb6a9c490" />
+
   </div>
 </div>
 </div>
